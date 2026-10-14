@@ -47,8 +47,6 @@ document.getElementById("business-name").textContent =
 document.getElementById("business-description").textContent =
     business.description;
 
-document.querySelector(".brand-logo").textContent =
-    business.initials;
 
 document.getElementById("footer-name").textContent =
     business.name;
